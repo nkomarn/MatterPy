@@ -1,0 +1,9 @@
+[Configuration]
+application-id = 823927192739276319
+top-text = Working on a sick app!
+bottom-text = Using Sublime Text.
+large-icon = sublime_large
+small-icon = bread_png
+large-icon-hover = Sublime is dope!
+small-icon-hover = I am a toaster.
+timer=1
